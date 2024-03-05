@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-from dotenv import load_dotenv
+from from dotenv import load_dotenv
+
+import load_dotenv
 
 # Load default environment variables (.env)
 load_dotenv()
